@@ -38,7 +38,7 @@ Built for the *Fair & Explainable AI* course, the project demonstrates model ite
 ---
 
 ## 🗂 Repository Layout
-
+```text
 recyclability-xai-vision/
 ├── .gitignore
 ├── LICENSE
@@ -46,41 +46,42 @@ recyclability-xai-vision/
 ├── requirements.txt
 ├── environment.yml
 │
-├── data/ # proprietary images removed
-│ └── sample_images/ # tiny demo JPGs
+├── data/                         # proprietary images removed
+│   └── sample_images/           # tiny demo JPGs
 │
 ├── assets/
-│ ├── infographic.png
-│ ├── wireframe_link.txt
-│ └── confusion_matrix_V3.png
+│   ├── infographic.png
+│   ├── wireframe_link.txt
+│   └── confusion_matrix_V3.png
 │
-├── src/ # reusable python modules
-│ ├── data_loader.py
-│ ├── data_augmentation.py
-│ ├── model_mlp.py
-│ ├── model_cnn.py
-│ ├── model_resnet.py
-│ ├── compile_utils.py
-│ ├── plotting.py
-│ └── evaluation.py
+├── src/                          # reusable python modules
+│   ├── data_loader.py
+│   ├── data_augmentation.py
+│   ├── model_mlp.py
+│   ├── model_cnn.py
+│   ├── model_resnet.py
+│   ├── compile_utils.py
+│   ├── plotting.py
+│   └── evaluation.py
 │
 ├── notebooks/
-│ ├── 01_eda_baseline.ipynb
-│ ├── 02_v1_mlp.ipynb
-│ ├── 03_v2_cnn.ipynb
-│ ├── 04_v3_resnet_transfer.ipynb
-│ ├── 05_v4_augmented_final.ipynb
-│ ├── 06_error_analysis.ipynb
-│ └── 07_final_evaluation.ipynb
+│   ├── 01_eda_baseline.ipynb
+│   ├── 02_v1_mlp.ipynb
+│   ├── 03_v2_cnn.ipynb
+│   ├── 04_v3_resnet_transfer.ipynb
+│   ├── 05_v4_augmented_final.ipynb
+│   ├── 06_error_analysis.ipynb
+│   └── 07_final_evaluation.ipynb
 │
 └── docs/
-├── stakeholder_analysis.md
-├── decision_framework.md
-├── business_value.md
-├── dataset_bias.md
-├── fairness_method.md
-├── tradeoff_analysis.md
-└── model_summary.md
+    ├── stakeholder_analysis.md
+    ├── decision_framework.md
+    ├── business_value.md
+    ├── dataset_bias.md
+    ├── fairness_method.md
+    ├── tradeoff_analysis.md
+    └── model_summary.md
+```
 
 ## ⚙️ <a name="setup"></a>Setup & Quick-start
 

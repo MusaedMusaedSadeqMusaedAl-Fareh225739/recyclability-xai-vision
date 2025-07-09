@@ -37,7 +37,7 @@ Built for the *Fair & Explainable AI* course, the project demonstrates model ite
 
 ---
 
-## 🗂 <a name="layout"></a>Repository Layout
+## 🗂 Repository Layout
 
 recyclability-xai-vision/
 ├── .gitignore
@@ -81,7 +81,6 @@ recyclability-xai-vision/
 ├── fairness_method.md
 ├── tradeoff_analysis.md
 └── model_summary.md
----
 
 ## ⚙️ <a name="setup"></a>Setup & Quick-start
 

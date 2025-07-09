@@ -4,7 +4,7 @@
 </p>
 
 # ♻️ Recyclability Image Classifier with XAI  
-*A Breda University of Applied Sciences study project (Academic year 2024-2025)*  
+*A Breda University of Applied Sciences study project (Academic year 2023-2024)*  
 
 End-to-end computer-vision pipeline that labels waste-item images as **recyclable** or **non-recyclable**.  
 Built for the *Fair & Explainable AI* course, the project demonstrates model iteration, explainability, bias analysis, and stakeholder alignment.
